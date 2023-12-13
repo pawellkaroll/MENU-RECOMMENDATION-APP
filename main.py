@@ -13,7 +13,6 @@ from datetime import date
 from PIL import Image, ImageTk
 
 
-
 # define variables
 root_color = "#FFB200"
 title_font = ("Sans Serif", 32, "bold")
